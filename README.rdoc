@@ -2,9 +2,9 @@
 
 This is just the EdgeCase Ruby Koans modified for instruction at the okrb meetings.
 
-Date: 2nd Thursday of each month
-Time: 6:30pm
-Location: http://maps.google.com/maps/place?q=okccoco&hl=en&cid=18302697488318738773
+    Date: 2nd Thursday of each month
+    Time: 6:30pm
+    Location: http://maps.google.com/maps/place?q=okccoco&hl=en&cid=18302697488318738773
 
 = EdgeCase Ruby Koans
 
